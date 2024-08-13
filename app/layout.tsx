@@ -5,8 +5,8 @@ import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 
 export const metadata: Metadata = {
-  title: 'Travel',
-  description: 'Travel UI/UX App for Camping',
+  title: 'Next.js Travel App',
+  description: 'Next.js Travel App for Camping',
 }
 
 export default function RootLayout({
