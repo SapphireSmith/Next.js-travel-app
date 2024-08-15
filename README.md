@@ -1,13 +1,12 @@
 # Next.js Static Page Application
 
-This is a [Next.js](https://nextjs.org/) application that serves as a static website [briefly describe the purpose of your application].
+This is a [Next.js](https://nextjs.org/) application.
 
 ## Features
 
-- Static pages generated with Next.js
-- Tailwind CSS for styling (if applicable)
+- Static pages developed using Next.js
+- Tailwind CSS for styling 
 - Responsive design
-- [Additional features or technologies used]
 
 ## Getting Started
 
@@ -26,3 +25,17 @@ Ensure you have the following installed:
 
    ```bash
    git clone https://github.com/your-username/your-nextjs-static-app.git
+   ```
+
+2. **Install node_modules**
+
+```bash
+  npm install
+   ```
+
+2. **Run it**
+ ```bash
+ npm run dev
+ ```
+
+ Go to [http://localhost:3000]
