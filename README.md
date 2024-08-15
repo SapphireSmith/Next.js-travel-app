@@ -1,6 +1,7 @@
 # Next.js Static Page Application
 
 This is a [Next.js](https://nextjs.org/) application.
+view demo: [View](https://next-js-travel-app-three.vercel.app/).
 
 ## Features
 
@@ -38,4 +39,4 @@ Ensure you have the following installed:
  npm run dev
  ```
 
- Go to [http://localhost:3000]
+ Go to [http://localhost:3000](http://localhost:3000)
