@@ -11,7 +11,7 @@ view demo: [View](https://next-js-travel-app-three.vercel.app/).
 
 ## Getting Started
 
-Follow these instructions to clone and run the project on your local machine.
+Follow the instructions to clone and run the project on your local machine.
 
 ### Prerequisites
 
