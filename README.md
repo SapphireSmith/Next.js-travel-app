@@ -1,7 +1,7 @@
 # Next.js Static Page Application
 
 This is a [Next.js](https://nextjs.org/) application.
-view demo: [View](https://next-js-travel-app-three.vercel.app/).
+view demo: [link](https://next-js-travel-app-three.vercel.app/).
 
 ## Features
 
